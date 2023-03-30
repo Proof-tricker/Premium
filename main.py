@@ -1,1 +1,1 @@
-Import Proof64
+import Proof64
